@@ -1,0 +1,20 @@
+#main{
+    text-align: center;
+}
+
+#name{
+    color: blueviolet;
+    font-size: 20px;
+}
+
+#position{
+    color: aqua;
+}
+#socials{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
